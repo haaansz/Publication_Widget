@@ -1,0 +1,11 @@
+{
+  "name": "SAC Publication Widget",
+  "id": "sac-publication-widget",
+  "version": "1.0.0",
+  "type": "custom-widget",
+  "main": "src/index.js",
+  "configuration": {
+    "title": "Schedule Report Widget",
+    "description": "A widget to schedule reports via SAC's Schedule Publication API."
+  }
+}
