@@ -1,0 +1,16 @@
+{
+  "name": "sac-publication-widget",
+  "version": "1.0.0",
+  "description": "A custom SAC widget to interact with the Schedule Publication API.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "webpack serve --open",
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0"
+  },
+  "author": "HK",
+  "license": "MIT"
+}
